@@ -1,0 +1,12 @@
+/.metadata/
+Debug/
+Doc/
+Release/
+RemoteSystemsTempFiles/
+*.doxyfile
+.libs
+*.o
+*.la
+*.lo
+
+
